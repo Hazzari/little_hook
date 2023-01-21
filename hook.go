@@ -3,5 +3,5 @@ package little_hook
 import "fmt"
 
 func Version() {
-	fmt.Println("Version 1.0.4")
+	fmt.Println("Version 1.0.5")
 }
